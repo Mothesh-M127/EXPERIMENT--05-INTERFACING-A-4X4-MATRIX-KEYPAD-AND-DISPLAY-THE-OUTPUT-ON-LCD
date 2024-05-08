@@ -464,7 +464,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif 
 ```
-```
 
 ## Output screen shots of proteus  :
 <img src ="img2.jpg" height=500 width=800>
